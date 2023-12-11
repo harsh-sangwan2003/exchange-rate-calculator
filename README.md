@@ -8,4 +8,4 @@ A quick guide to my Project ->
 
 <img src ="/image.webp">
 
-An app for converting one currency into another.
+Introducing a sophisticated application designed to seamlessly transmute currencies, facilitating effortless conversions with elegant precision and unparalleled convenience.
